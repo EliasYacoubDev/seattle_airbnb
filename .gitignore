@@ -1,0 +1,4 @@
+# large processed data
+*.csv
+*.db
+*.pkl
